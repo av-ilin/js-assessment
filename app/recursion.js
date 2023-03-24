@@ -53,7 +53,6 @@ exports.recursionAnswers = {
         }
 
         getParentheses("", n, n);
-        console.log(parentheses);
         return parentheses;
     },
 };
